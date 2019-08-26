@@ -1,3 +1,4 @@
 # team28
 MSIS
-Inez Yu
+iyu
+arushikathpal
